@@ -117,9 +117,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="MainContent" type="ComposePreviewRunConfiguration" activateToolWindowBeforeRun="false" singleton="false" temporary="true">
       <module name="JetTip.app.main" />
@@ -179,7 +177,6 @@
       <compose-preview-run-configuration composable-fqn="com.example.jettip.MainActivityKt.MainContent" />
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
