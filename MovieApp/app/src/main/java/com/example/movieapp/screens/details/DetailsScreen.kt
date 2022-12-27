@@ -17,12 +17,11 @@ fun DetailsScreen(
     movieData: String?
 ) {
     Surface(modifier = Modifier.fillMaxSize()) {
-        Column(horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.Center) {
+        Column(
+            horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.Center
+        ) {
             Text(text = movieData.toString(), style = MaterialTheme.typography.h5)
-
-
         }
-
     }
 }
