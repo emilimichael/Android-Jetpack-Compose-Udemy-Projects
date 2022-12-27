@@ -1,0 +1,6 @@
+/Users/emilimichael/AndroidStudioProjects/JetTip/app/src/main/java/com/example/jettip/ui/theme/Color.kt
+/Users/emilimichael/AndroidStudioProjects/JetTip/app/src/main/java/com/example/jettip/ui/theme/Type.kt
+/Users/emilimichael/AndroidStudioProjects/JetTip/app/src/main/java/com/example/jettip/MainActivity.kt
+/Users/emilimichael/AndroidStudioProjects/JetTip/app/src/main/java/com/example/jettip/ui/theme/Shape.kt
+/Users/emilimichael/AndroidStudioProjects/JetTip/app/src/main/java/com/example/jettip/components/Components.kt
+/Users/emilimichael/AndroidStudioProjects/JetTip/app/src/main/java/com/example/jettip/ui/theme/Theme.kt
